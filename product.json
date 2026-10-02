@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "makercard-s",
+  "name": "MakerCard-S",
+  "role": "makercard",
+  "productVersion": "v1",
+  "pcbRevision": "Rev0",
+  "designStatus": "frozen",
+  "verificationStatus": "unverified",
+  "hardwareStatus": "boards-ordered",
+  "summary": {
+    "en": "A reference implementation combining the Core-S G031 circuit with breakout, breadboard-style strips, power rails, and a universal prototyping field.",
+    "ja": "Core-S G031回路とブレイクアウト、ブレッドボード形式の配線、電源レール、ユニバーサル試作領域を一枚にまとめたリファレンス実装です。"
+  },
+  "repository": "https://github.com/craftvia/craftvia-makercard-s",
+  "sourceRef": "main",
+  "image": "docs/images/makercard-s-v1-rev0-3d.webp",
+  "documents": {
+    "specification": {
+      "en": "docs/specification-v1-rev0.md",
+      "ja": "docs/specification-v1-rev0.ja.md"
+    },
+    "verificationPlan": {
+      "en": "docs/verification-plan-v1-rev0.md",
+      "ja": "docs/verification-plan-v1-rev0.ja.md"
+    },
+    "releaseNotes": "RELEASE_NOTES.md"
+  }
+}
